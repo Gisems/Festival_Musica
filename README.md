@@ -1,3 +1,3 @@
 # Festival_Musica
-Proyecto de cursado de festival de música
+Este proyecto se puede ver por medio de:
 https://festivalmusicags.netlify.app/
